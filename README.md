@@ -1,5 +1,5 @@
 # JSTuts
-JavaScript Tutorials
+Group JavaScript Tutorials
 
 ### Notes from 13/12/2016 ###
 
