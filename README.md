@@ -18,21 +18,21 @@ console.log(...array)</code></pre>
 
 
 #### Suggestions ####
-pure functions
-concat - non-mutating
-slice - non-mutating
-object.assign()
-spread operation
-filter
-map
-reduce
-shift & unshift
-regex
-closures
-promises
-currying
-Classes - constructor, extends, static
+pure functions  
+concat - non-mutating  
+slice - non-mutating  
+object.assign()  
+spread operation  
+filter  
+map  
+reduce  
+shift & unshift  
+regex  
+closures  
+promises  
+currying  
+Classes - constructor, extends, static  
 
 ##### Testing #####
-expect
-deepfreeze
+expect  
+deepfreeze  
