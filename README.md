@@ -15,3 +15,24 @@ console.log(...array)</code></pre>
 
 * Write a function which returns the factorial of the parameter being passed i.e. FirstFactorial(8) should return 24 (4*3*2*1 =24)  
 * Write a function which returns the reverse of a string given as a parameter being passed i.e. reverse('hello') should return 'olleH'  
+
+
+#### Suggestions ####
+pure functions
+concat - non-mutating
+slice - non-mutating
+object.assign()
+spread operation
+filter
+map
+reduce
+shift & unshift
+regex
+closures
+promises
+currying
+Classes - constructor, extends, static
+
+##### Testing #####
+expect
+deepfreeze
