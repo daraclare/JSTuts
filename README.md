@@ -32,7 +32,5 @@ closures
 promises  
 currying  
 Classes - constructor, extends, static  
+Testing: expect, deepfreeze, Mocha  
 
-##### Testing #####
-expect  
-deepfreeze  
