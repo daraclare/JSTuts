@@ -1,10 +1,15 @@
 # JSTuts
 JavaScript Tutorials
 
+
+### Notes from 20/12/2016 ###
+#### Homework :) ####
+* Find out about spread operator  
+* Find the longest word in the string which is passed in as a parameter.  
+<pre><code>let str = "This is marmalade"</code></pre>
+
+
 ### Notes from 13/12/2016 ###
-
-
-
 JS-tuts codepen: http://codepen.io/daraclare/pen/QGmpxR?editors=0010    
 
 #### Homework :) ####
