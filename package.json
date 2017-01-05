@@ -1,0 +1,27 @@
+{
+  "name": "jstuts",
+  "version": "1.0.0",
+  "description": "Javascript tutorials",
+  "main": "20-12-2016-dara.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daraclare/JSTuts.git"
+  },
+  "keywords": [
+    "javascript",
+    "js"
+  ],
+  "author": "Dara Carolan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daraclare/JSTuts/issues"
+  },
+  "homepage": "https://github.com/daraclare/JSTuts#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "open": "0.0.5"
+  }
+}
