@@ -102,3 +102,16 @@ section {
   background-color: #111;
   padding-top: 1%;
 }
+
+i.fa.fa-star-o {
+    color: white;
+    letter-spacing: 10;
+    padding-bottom: 10px;
+}
+
+i.fa.fa-star-o:hover:before {
+   content: "\2605";
+   color: white;
+   letter-spacing: 10;
+   padding-bottom: 10px;
+}
