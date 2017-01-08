@@ -1,0 +1,104 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-bottom: 8%;
+  background: #222;
+}
+
+p {
+  font-size: 20px;
+}
+p.small {
+  font-size: 16px;
+}
+
+a,
+a:focus,
+a:active,
+a.active {
+  color: white;
+  outline: none;
+}
+
+a:hover {
+  color: #f0db4f;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+nav.nav-jstuts {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1.25em;
+  background: #222;
+  border: none;
+  color: white;
+  height: 5%;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.navbar-default .navbar-brand  {
+    color: white;
+}
+
+
+header {
+  text-align: center;
+  background: #F1C40F;
+  color: white;
+  height: 23%;
+}
+header .container {
+  padding-top: 4%;
+  padding-bottom: 5%;
+}
+header img {
+  display: block;
+  margin: 0 auto 20px;
+}
+
+.intro-text-jstuts {
+  font-size: 3em;
+  color: #222;
+}
+
+section {
+  background: #222;
+}
+
+.jstuts-members {
+  color: white;
+  font-size: 3em;
+  padding-top: 5%;
+}
+
+.member-row {
+  padding-top: 5%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2;
+  /* Set the fixed height of the footer here */
+  height: 5%;
+  background-color: #111;
+  padding-top: 1%;
+}
