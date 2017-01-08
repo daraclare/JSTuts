@@ -55,12 +55,15 @@ nav.nav-jstuts {
     color: white;
 }
 
+#brand-link:hover {
+  color: #F1C40F !important;
+}
 
 header {
   text-align: center;
   background: #F1C40F;
   color: white;
-  height: 23%;
+  height: 21%;
 }
 header .container {
   padding-top: 4%;
@@ -71,9 +74,13 @@ header img {
   margin: 0 auto 20px;
 }
 
-.intro-text-jstuts {
-  font-size: 3em;
+h1 {
+    font-size: 3em;
   color: #222;
+}
+
+small {
+  font-size: 1em;
 }
 
 section {
@@ -103,15 +110,23 @@ section {
   padding-top: 1%;
 }
 
-i.fa.fa-star-o {
+header i.fa.fa-star  {
     color: white;
     letter-spacing: 10;
     padding-bottom: 10px;
+    position:relative;
+    bottom: 10px;
+    font-size: 18px;
+}
+
+header i.fa.fa-star:hover:before {
+   content: "\2605";
+   color: rgba(255, 255, 255, .5);
+   letter-spacing: 10;
+   padding-bottom: 10px;
 }
 
 i.fa.fa-star-o:hover:before {
    content: "\2605";
    color: white;
-   letter-spacing: 10;
-   padding-bottom: 10px;
 }
