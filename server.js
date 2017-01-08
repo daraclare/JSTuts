@@ -4,8 +4,12 @@ const open = require('open');
 const port = 4000;
 
 app.get('/', function (req, res) {
-  res.send('Hello World!');
+  res.sendFile(__dirname + '/index.html');
   console.log(`running on port ${port}`);
+});
+
+app.get('/dara', function (req, res) {
+  res.sendFile(__dirname + '/dara.html');
 });
 
 //start up express
