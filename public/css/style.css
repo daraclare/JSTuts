@@ -69,18 +69,10 @@ header .container {
   padding-top: 4%;
   padding-bottom: 5%;
 }
-header img {
-  display: block;
-  margin: 0 auto 20px;
-}
 
 h1 {
-    font-size: 3em;
+  font-size: 3em;
   color: #222;
-}
-
-small {
-  font-size: 1em;
 }
 
 section {
@@ -97,6 +89,8 @@ section {
   padding-top: 5%;
 }
 
+/* footer */
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -109,6 +103,8 @@ section {
   background-color: #111;
   padding-top: 1%;
 }
+
+/* font awesome stars */
 
 header i.fa.fa-star  {
     color: white;
