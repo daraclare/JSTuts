@@ -5,8 +5,8 @@ html {
 
 body {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin-bottom: 8%;
   background: #222;
+  padding-top: 5%;
 }
 
 p {
@@ -56,24 +56,34 @@ nav.nav-jstuts {
 }
 
 #brand-link:hover {
-  color: #F1C40F !important;
+  color: #F1C40F ;
 }
 
 header {
   text-align: center;
   background: #F1C40F;
   color: white;
-  height: 21%;
+  height: 7em;
 }
-header .container {
-  padding-top: 4%;
-  padding-bottom: 5%;
+
+.intro-text-jstuts {
+  position: relative;
+  bottom: 0;
+  left: 0;
+}
+
+.intro-text-jstuts h1 {
+  position: relative;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, 0%);
 }
 
 h1 {
   font-size: 3em;
   color: #222;
 }
+
 
 section {
   background: #222;
