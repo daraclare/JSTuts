@@ -1,6 +1,10 @@
 # JSTuts
 JavaScript Tutorials
 
+#### 05/01/2017 Homework :) ####
+* Find out about pure functions  
+* Find code challenges to do in the future, please do not use any from the list here:
+[https://coderbyte.com/challenges](https://coderbyte.com/challenges)
 
 #### 20/12/2016 Homework :) ####
 * Find out about spread operator  
