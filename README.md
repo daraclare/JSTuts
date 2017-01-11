@@ -35,7 +35,7 @@ reduce
 shift & unshift  
 regex  
 closures  
-promises  
+promises: https://blog.accenture.com/orlando_valenzuela/2017/01/09/javascript-promises/
 currying  
 Classes - constructor, extends, static  
 Testing: expect, deepfreeze, Mocha  
