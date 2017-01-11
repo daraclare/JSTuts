@@ -3,7 +3,7 @@ html {
   min-height: 100%;
 }
 
-body {
+.jstuts {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #222;
   padding-top: 5%;
@@ -135,4 +135,14 @@ header i.fa.fa-star:hover:before {
 i.fa.fa-star-o:hover:before {
    content: "\2605";
    color: white;
+}
+
+.lesson-pages {
+  background: hsl(0, 0%, 93%);
+}
+
+.lesson {
+  background-color: white;
+  padding: 1em;
+  margin-bottom: 4em;
 }
