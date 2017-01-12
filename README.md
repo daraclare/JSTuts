@@ -20,7 +20,8 @@ JS-tuts codepen: http://codepen.io/daraclare/pen/QGmpxR?editors=0010
 console.log(...array)</code></pre>
 
 
-https://www.toptal.com/javascript/interview-questions
+https://www.toptal.com/javascript/interview-questions  
+
 //* Write a function which returns the factorial of the parameter being passed i.e. FirstFactorial(4) should return 24 (4x3x2x1 =24)  
 //* Write a function which returns the reverse of a string given as a parameter being passed i.e. reverse('hello') should return 'olleH'  
 * Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
