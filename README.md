@@ -1,6 +1,10 @@
 # JSTuts
 JavaScript Tutorials
 
+#### 12/01/2017 Homework :) ####
+* Find out about concat — non-mutating
+* Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
+
 #### 05/01/2017 Homework :) ####
 * Find out about pure functions  
 * Find code challenges to do in the future, please do not use any from the list here:
