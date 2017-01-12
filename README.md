@@ -19,9 +19,13 @@ JS-tuts codepen: http://codepen.io/daraclare/pen/QGmpxR?editors=0010
 <pre><code>const array = ['This ', 'is ', 'an ', 'array' ]  
 console.log(...array)</code></pre>
 
-* Write a function which returns the factorial of the parameter being passed i.e. FirstFactorial(4) should return 24 (4x3x2x1 =24)  
-* Write a function which returns the reverse of a string given as a parameter being passed i.e. reverse('hello') should return 'olleH'  
 
+https://www.toptal.com/javascript/interview-questions
+//* Write a function which returns the factorial of the parameter being passed i.e. FirstFactorial(4) should return 24 (4x3x2x1 =24)  
+//* Write a function which returns the reverse of a string given as a parameter being passed i.e. reverse('hello') should return 'olleH'  
+* Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
+* Write a JavaScript program to calculate multiplication and division of two numbers (input from user)
+* Write a JavaScript program where the program takes a random integer between 1 to 10, the user is then prompted to input a guess number. If the user input matches with guess number, the program will display a message "Good Work" otherwise display a message "Not matched"
 
 #### Suggestions ####
 pure functions  
