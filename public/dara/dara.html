@@ -1,0 +1,53 @@
+`<html>
+<head>
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="../../css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="../../css/style.css">
+
+</head>
+<body class="lesson-pages">
+
+  <div class="container">
+
+    <div class="row lesson">
+
+      <h4>Pure functions</h4>
+      <ul>
+        <li>Pure functions always return the same result given the same arguments.</li>
+        <li>Pure function's execution doesn't depend on the state of the application.</li>
+        <li>Pure functions don't modify the variables outside of their scope - no mutations.</li>
+      </ul>
+
+      <p>When you call a function that is "pure", you can predict exactly what's going to happen based on its input. This makes functions that are pure easy to reason about and testable.</p>
+
+      <a class="jsbin-embed" href="http://jsbin.com/budevum/embed?html,js,console">Pure Functions on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.40.3"></script>
+
+      <p>The .slice method is a pure function - given the same arguments, it will always return the same value. It's predictable, but the .splice method is not a pure function since each time we invoke it passing in the same arguments, we get a different result. It's also modifying state.</p>
+    </div>
+
+    <div class="row lesson">
+      <h4>Object.assign with Expect and DeepFreeze test</h4>
+      <a class="jsbin-embed" href="http://jsbin.com/hiqekez/embed?js,console">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.40.3"></script>
+    </div>
+
+    <div class="row lesson">
+      <h4>Redux Counter Example</h4>
+      <a class="jsbin-embed" href="http://jsbin.com/walococ/45/embed?html,js,output">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.40.3"></script>
+    </div>
+  </div>
+
+
+
+</body>
+
+</html>`

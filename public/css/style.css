@@ -1,0 +1,145 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.jstuts {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #222;
+  padding-top: 5%;
+}
+
+p.small {
+  font-size: 16px;
+}
+
+a,
+a:focus,
+a:active,
+a.active {
+  color: white;
+  outline: none;
+}
+
+a:hover {
+  color: #f0db4f;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+nav.nav-jstuts {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1.25em;
+  background: #222;
+  border: none;
+  color: white;
+  height: 5%;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.navbar-default .navbar-brand  {
+    color: white;
+}
+
+#brand-link:hover {
+  color: #F1C40F ;
+}
+
+header {
+  text-align: center;
+  background: #F1C40F;
+  color: white;
+  height: 7em;
+}
+
+.intro-text-jstuts {
+  position: relative;
+  bottom: 0;
+  left: 0;
+}
+
+.intro-text-jstuts h1 {
+  position: relative;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+h1 {
+  font-size: 3em;
+  color: #222;
+}
+
+
+section {
+  background: #222;
+}
+
+.jstuts-members {
+  color: white;
+  font-size: 3em;
+  padding-top: 5%;
+}
+
+.member-row {
+  padding-top: 5%;
+}
+
+/* footer */
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2;
+  /* Set the fixed height of the footer here */
+  height: 5%;
+  background-color: #111;
+  padding-top: 1%;
+}
+
+/* font awesome stars */
+
+header i.fa.fa-star  {
+    color: white;
+    letter-spacing: 10;
+    padding-bottom: 10px;
+    position:relative;
+    bottom: 10px;
+    font-size: 18px;
+}
+
+header i.fa.fa-star:hover:before {
+   content: "\2605";
+   color: rgba(255, 255, 255, .5);
+   letter-spacing: 10;
+   padding-bottom: 10px;
+}
+
+i.fa.fa-star-o:hover:before {
+   content: "\2605";
+   color: white;
+}
+
+.lesson-pages {
+  background: hsl(0, 0%, 93%);
+}
+
+.lesson {
+  background-color: white;
+  padding: 1em;
+  margin-bottom: 4em;
+}
