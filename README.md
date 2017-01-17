@@ -51,4 +51,5 @@ promises: https://blog.accenture.com/orlando_valenzuela/2017/01/09/javascript-pr
 currying  
 Classes - constructor, extends, static  
 Testing: expect, deepfreeze, Mocha  
+Reactive programming
 
