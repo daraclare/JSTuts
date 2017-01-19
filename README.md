@@ -2,7 +2,7 @@
 JavaScript Tutorials
 
 #### 19/01/2017 Homework :) ####
-* Solve this problem: https://coderbyte.com/editor/Letter%20Changes:JavaScript using the theory from the (https://app.pluralsight.com/player?course=developer-job-interviews&author=john-sonmez&name=job-interview-m2-algorithm&clip=0&mode=live)['Solving Algorithm Based Problems'] chapter of this Plurarlsightcourse.
+* Solve this problem: https://coderbyte.com/editor/Letter%20Changes:JavaScript using the theory from the [Solving Algorithm Based Problems](https://app.pluralsight.com/player?course=developer-job-interviews&author=john-sonmez&name=job-interview-m2-algorithm&clip=0&mode=live) chapter of this Plurarlsightcourse.
 
 #### 12/01/2017 Homework :) ####
 * Find out about concat — non-mutating
