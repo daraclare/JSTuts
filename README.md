@@ -1,6 +1,12 @@
 # JSTuts
 JavaScript Tutorials
 
+#### 02/02/2017 Homework :) ####
+* Solve this problem: [Simple Adding](https://coderbyte.com/editor/Simple%20Adding:JavaScript) using the theory from the [Solving Algorithm Based Problems](https://app.pluralsight.com/player?course=developer-job-interviews&author=john-sonmez&name=job-interview-m2-algorithm&clip=0&mode=live) chapter of this Plurarlsightcourse.
+
+#### 19/01/2017 Homework :) ####
+* Solve this problem: [Letter Changes](https://coderbyte.com/editor/Letter%20Changes:JavaScript) using the theory from the [Solving Algorithm Based Problems](https://app.pluralsight.com/player?course=developer-job-interviews&author=john-sonmez&name=job-interview-m2-algorithm&clip=0&mode=live) chapter of this Plurarlsightcourse.
+
 #### 12/01/2017 Homework :) ####
 * Find out about concat — non-mutating
 * Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
