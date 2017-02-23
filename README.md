@@ -1,6 +1,10 @@
 # JSTuts
 JavaScript Tutorials
 
+#### 23/02/2017 homework :) ####
+* [Letter Capitalize] https://coderbyte.com/editor/Letter%20Capitalize:JavaScript
+* Filter Method - explanation with example
+
 #### 16/02/2017 homework :) ####
 * Explain difference between (Provide examples) :
     1.    null vs undefined
