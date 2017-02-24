@@ -67,4 +67,7 @@ currying
 Classes - constructor, extends, static  
 Testing: expect, deepfreeze, Mocha  
 Reactive programming
-
+'this' keyword
+callback functions
+difference between let, var & const
+hoisting
