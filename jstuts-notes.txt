@@ -1,0 +1,19 @@
+00a9a6
+
+f0db4f - yellow
+
+
+nav - 5
+header - 23
+section - 67%
+footer = 5
+
+
+
+4D5058
+
+F4AC42
+
+
+Brief visual instructional video to show how to install JSBIN locally on your development machine: https://www.youtube.com/watch?v=xcwJjSqi3_k
+
