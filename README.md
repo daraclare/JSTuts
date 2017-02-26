@@ -1,6 +1,15 @@
 # JSTuts
 JavaScript Tutorials
 
+#### 23/02/2017 homework :) ####
+* [Letter Capitalize](https://coderbyte.com/editor/Letter%20Capitalize:JavaScript)
+* Filter Method - explanation with example
+
+#### 16/02/2017 homework :) ####
+* Explain difference between (Provide examples) :
+    1.    null vs undefined
+    2.    == vs === 
+
 #### 02/02/2017 Homework :) ####
 * Solve this problem: [Simple Adding](https://coderbyte.com/editor/Simple%20Adding:JavaScript) using the theory from the [Solving Algorithm Based Problems](https://app.pluralsight.com/player?course=developer-job-interviews&author=john-sonmez&name=job-interview-m2-algorithm&clip=0&mode=live) chapter of this Plurarlsightcourse.
 
@@ -58,4 +67,7 @@ currying
 Classes - constructor, extends, static  
 Testing: expect, deepfreeze, Mocha  
 Reactive programming
-
+'this' keyword
+callback functions
+difference between let, var & const
+hoisting
