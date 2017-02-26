@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JS Reference VS Copy</title>
+</head>
+<body>
+
+  <script>
+    // start with strings, numbers and booleans
+
+    let times = 'first';
+    let timesCopy = times;
+    console.log(times, timesCopy);
+    times = 'second';
+    console.log(times, timesCopy);
+
+    // Let's say we have an array
+    const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
+
+    const players2 = players; // You might think we can just do something like this:
+
+
+    // and we want to make a copy of it.
+    const playerSpread = [...players]; //use the new ES6 Spread
+    const playerConcat = [].concat(players); //create a new array and concat the old one in
+    const playerSlice = players.slice();
+    const playerArrayFrom = Array.from(players);
+
+    players2[0] = 'notWes';     // however what happens when we update that array?
+
+    console.log(players /* <= now here is the problem - oh no - we have edited the original array too!*/, players2, playerSpread /* now when we update it, the original one isn't changed */, playerSlice, playerArrayFrom);
+
+
+
+    // The same thing goes for objects, let's say we have a person object
+
+    // with Objects
+    const person = {
+      name: 'Telly Savalis',
+      age: 120
+    }
+
+    const person2 = {
+      name: 'Telly Savalis',
+      age: 120
+    }
+    // and think we make a copy:
+    const captain = person;
+    captain.number = 99;
+
+    console.log('captain', captain, 'person', person);
+
+    // how do we take a copy instead?
+    const personObjectAssign = Object.assign({}, person2, { number: 82});
+
+    console.log('person2', person2, 'personObjectAssign', personObjectAssign);
+
+    // We will hopefully soon see the object ...spread
+
+    // Things to note - this is only 1 level deep - both for Arrays and Objects. lodash has a cloneDeep method, but you should think twice before using it.
+
+    const actor = {
+      name: 'Telly Savalis',
+      age: 120,
+      social: {
+        twitter: '@Telly',
+        facebook: 'no thanks'
+      }
+    }
+
+    const newActor = Object.assign({}, actor);
+
+    console.log(actor, newActor);
+
+
+    const newActorDeepClone = JSON.parse(JSON.stringify(actor));
+
+
+
+  </script>
+
+</body>
+</html>

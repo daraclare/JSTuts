@@ -17,8 +17,12 @@ a,
 a:focus,
 a:active,
 a.active {
-  color: white;
+  color: #888;
   outline: none;
+}
+
+.jstuts-members a {
+  color: white;
 }
 
 a:hover {
