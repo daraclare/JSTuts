@@ -1,6 +1,10 @@
 # JSTuts
 JavaScript Tutorials
 
+#### 09/03/2017 homework :) ####
+* [Sample Test Cases](https://coderbyte.com/editor/Simple%20Symbols:JavaScript)
+* Map Method and ForEach - the difference betwen them and when to use them
+
 #### 23/02/2017 homework :) ####
 * [Letter Capitalize](https://coderbyte.com/editor/Letter%20Capitalize:JavaScript)
 * Filter Method - explanation with example
