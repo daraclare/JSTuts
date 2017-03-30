@@ -1,8 +1,12 @@
 # JSTuts
 JavaScript Tutorials
 
+#### 30/03/2017 homework :) ####
+* [CheckNums](https://coderbyte.com/editor/Check%20Nums:JavaScript)
+* Reduce Method
+
 #### 09/03/2017 homework :) ####
-* [Sample Test Cases](https://coderbyte.com/editor/Simple%20Symbols:JavaScript)
+* [SimpleSymbols](https://coderbyte.com/editor/Simple%20Symbols:JavaScript)
 * Map Method and ForEach - the difference betwen them and when to use them
 
 #### 23/02/2017 homework :) ####
