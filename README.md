@@ -1,6 +1,10 @@
 # JSTuts
 JavaScript Tutorials
 
+#### 06/04/2017 homework :) ####
+* [Break the Rope](https://codility.com/programmers/task/break_the_rope/)
+* Closures
+
 #### 30/03/2017 homework :) ####
 * [CheckNums](https://coderbyte.com/editor/Check%20Nums:JavaScript)
 * Reduce Method
